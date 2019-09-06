@@ -22,6 +22,11 @@
 │  │  └─index.vue       index页面
 │  └─list
 │     └─list.vue        list页面
+├─sub                 分包
+│  ├─login
+│  │  └─login.vue       login页面
+│  └─user
+│     └─user.vue        user页面
 ├─static                存放应用引用静态资源（如图片、视频等）的目录，注意：静态资源只能存放于此
 ├─common                存放应用公共引用静态资源（如图片、视频等）的目录，注意：静态资源只能存放于此
 ├─wxcomponents          存放小程序组件的目录，详见
